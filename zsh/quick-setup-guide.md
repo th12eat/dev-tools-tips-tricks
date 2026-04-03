@@ -1,6 +1,6 @@
-# WSL Terminal Setup — Quick Reference
+# ZSH Developer Setup — Quick Reference
 
-> Zsh · Oh My Zsh · Powerlevel10k · Windows Terminal
+> Zsh · Oh My Zsh · Powerlevel10k
 
 ---
 
@@ -90,23 +90,7 @@ Powerlevel10k uses glyphs from Nerd Fonts for icons in the prompt. Without a pat
 
 ---
 
-## 6. Windows Terminal Settings
-
-All of these are set per-profile under **Settings → Ubuntu → Appearance**:
-
-| Setting | Recommended Value |
-|---------|------------------|
-| Color scheme | `Solarized Dark` |
-| Font face | `MesloLGS NF` |
-| Font size | `11` or `12` |
-| Cursor shape | `Bar` |
-| Background opacity | `100%` (or adjust to taste) |
-
-> Solarized Dark is built into Windows Terminal — no import required. Select it from the dropdown.
-
----
-
-## 7. Active Plugins Reference
+## 6. Active Plugins Reference
 
 | Plugin | Type | What it does |
 |--------|------|-------------|
@@ -119,7 +103,7 @@ All of these are set per-profile under **Settings → Ubuntu → Appearance**:
 
 ---
 
-## 8. Useful Commands
+## 7. Useful Commands
 
 ```bash
 source ~/.zshrc        # reload config after changes
@@ -129,7 +113,7 @@ omz update             # update Oh My Zsh and all bundled plugins
 
 ---
 
-## 9. Verification
+## 8. Verification
 
 ```bash
 echo $SHELL            # should show /usr/bin/zsh
