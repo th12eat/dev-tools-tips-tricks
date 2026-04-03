@@ -1,4 +1,4 @@
-# WSL Developer Environment — Quick Reference
+# Vim Developer Environment — Quick Reference
 
 > Platform Engineering · Vim · AWS · IaC
 
