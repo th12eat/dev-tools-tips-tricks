@@ -1,4 +1,4 @@
-# Developer Environment — Quick Reference
+# Generic Developer Environment — Quick Reference
 
 > Platform Engineering · AWS · IaC
 
