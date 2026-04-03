@@ -32,7 +32,21 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ---
 
-## 2. File System Access
+## 2. Windows Terminal Settings
+
+All of these are set per-profile under **Settings → Ubuntu → Appearance**:
+
+| Setting | Recommended Value |
+|---------|------------------|
+| Color scheme | `Solarized Dark` |
+| Font face | `MesloLGS NF` |
+| Font size | `11` or `12` |
+| Cursor shape | `Bar` |
+| Background opacity | `100%` (or adjust to taste) |
+
+> Solarized Dark is built into Windows Terminal — no import required. Select it from the dropdown.
+
+## 3. File System Access
 
 ### Windows files from WSL
 
