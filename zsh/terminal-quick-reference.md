@@ -6,7 +6,7 @@
 
 ## 1. Prerequisites
 
-WSL with Ubuntu must already be installed. If not, see the [WSL Developer Environment Quick Reference](quick-reference.md).
+WSL with Ubuntu must already be installed. If not, see the [WSL Developer Environment Quick Reference](environment-quick-setup-guide.md).
 
 ---
 
