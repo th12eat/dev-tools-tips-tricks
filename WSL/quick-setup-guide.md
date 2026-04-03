@@ -1,6 +1,6 @@
 # WSL Developer Environment — Quick Reference
 
-> Platform Engineering · Vim · AWS · IaC
+> Platform Engineering · AWS · IaC
 
 ---
 
